@@ -1,5 +1,5 @@
 {
-  "name": "rsa-js",
+  "name": "rsa.js",
   "version": "1.0.0",
   "description": "rsa implementation in JS",
   "main": "RSA.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/JakobFisherdev/RSA-JS.git"
   },
-  "author": "Jakob Fischer",
+  "author": "Jakob Fischer <",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JakobFisherdev/RSA-JS/issues"
