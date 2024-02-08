@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/JakobFisherdev/RSA-JS.git"
   },
-  "author": "Jakob Fischer <",
+  "author": "Jakob Fischer <hello@jakobfischer.at>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JakobFisherdev/RSA-JS/issues"
